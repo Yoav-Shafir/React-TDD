@@ -1,0 +1,105 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GiftListComponent /> renders correctly 1`] = `
+Array [
+  <h2>
+    Gift Giver
+  </h2>,
+  <div
+    className="gift-list"
+  >
+    <div
+      className="gift"
+    >
+      <form
+        className=""
+      >
+        <div
+          className="form-group"
+        >
+          <label
+            className="form-label"
+          >
+            Person
+          </label>
+          <input
+            className="input-person form-control"
+            onChange={[Function]}
+          />
+        </div>
+        <div
+          className="form-group"
+        >
+          <label
+            className="form-label"
+          >
+            Present
+          </label>
+          <input
+            className="input-present form-control"
+            onChange={[Function]}
+          />
+        </div>
+      </form>
+      <button
+        className="btn-remove btn btn-primary"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        Remove Gift
+      </button>
+    </div>
+    <div
+      className="gift"
+    >
+      <form
+        className=""
+      >
+        <div
+          className="form-group"
+        >
+          <label
+            className="form-label"
+          >
+            Person
+          </label>
+          <input
+            className="input-person form-control"
+            onChange={[Function]}
+          />
+        </div>
+        <div
+          className="form-group"
+        >
+          <label
+            className="form-label"
+          >
+            Present
+          </label>
+          <input
+            className="input-present form-control"
+            onChange={[Function]}
+          />
+        </div>
+      </form>
+      <button
+        className="btn-remove btn btn-primary"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        Remove Gift
+      </button>
+    </div>
+  </div>,
+  <button
+    className="btn-add btn btn-primary"
+    disabled={false}
+    onClick={[MockFunction]}
+    type="button"
+  >
+    Add Gift
+  </button>,
+]
+`;

@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<WalletComponent /> renders correctly 1`] = `
+Array [
+  <h2>
+    Wallet
+  </h2>,
+  <h3
+    className="balance"
+  >
+    Wallet balance: 
+    20
+  </h3>,
+  <input
+    className="input-wallet"
+    onChange={[MockFunction]}
+  />,
+  <button
+    type="button"
+  >
+    Deposite
+  </button>,
+  <button
+    type="button"
+  >
+    Withdraw
+  </button>,
+]
+`;
